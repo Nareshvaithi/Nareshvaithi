@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nareshvaithi
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning react js
+- 🌱 I’m currently Backend 🔙👈
 - 💞️ I’m looking for a front-end development job
 - 📫 reach me this Email : nareshvaithi4@gmail.com
 - 😄 Pronouns: while(die){
